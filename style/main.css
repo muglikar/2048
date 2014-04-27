@@ -397,8 +397,9 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
+    /*color: #f9f6f2;*/
+    /*background: #3c3a32;*/
+    background: url('../tile-sets/2048.jpg');
     font-size: 30px;
     color: rgba(255,0,255,0); }
     @media screen and (max-width: 520px) {
